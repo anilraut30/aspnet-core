@@ -1,0 +1,14 @@
+/home/anil/repos/core-api/bin/Debug/netcoreapp2.2/core-api.deps.json
+/home/anil/repos/core-api/bin/Debug/netcoreapp2.2/core-api.runtimeconfig.json
+/home/anil/repos/core-api/bin/Debug/netcoreapp2.2/core-api.runtimeconfig.dev.json
+/home/anil/repos/core-api/bin/Debug/netcoreapp2.2/core-api.dll
+/home/anil/repos/core-api/bin/Debug/netcoreapp2.2/core-api.pdb
+/home/anil/repos/core-api/obj/Debug/netcoreapp2.2/core-api.csprojAssemblyReference.cache
+/home/anil/repos/core-api/obj/Debug/netcoreapp2.2/core-api.csproj.CoreCompileInputs.cache
+/home/anil/repos/core-api/obj/Debug/netcoreapp2.2/core-api.RazorAssemblyInfo.cache
+/home/anil/repos/core-api/obj/Debug/netcoreapp2.2/core-api.RazorAssemblyInfo.cs
+/home/anil/repos/core-api/obj/Debug/netcoreapp2.2/core-api.AssemblyInfoInputs.cache
+/home/anil/repos/core-api/obj/Debug/netcoreapp2.2/core-api.AssemblyInfo.cs
+/home/anil/repos/core-api/obj/Debug/netcoreapp2.2/core-api.RazorTargetAssemblyInfo.cache
+/home/anil/repos/core-api/obj/Debug/netcoreapp2.2/core-api.dll
+/home/anil/repos/core-api/obj/Debug/netcoreapp2.2/core-api.pdb
